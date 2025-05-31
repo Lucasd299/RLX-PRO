@@ -1,4 +1,4 @@
--- RLX HUB - SCRIPT COMPLETO Blox Fruits
+-- RLX PRO - SCRIPT COMPLETO Blox Fruits
 -- Suporte: 3 mundos, AutoFarm, Skills, ESP, Eventos, Teleporte
 
 -- Serviços principais
